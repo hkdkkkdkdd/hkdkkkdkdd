@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kadamrushi927@gmail.com
+- 👋 Hi, I’m
 - 🌱 I’m currently learninghacking
 - 💞️ I’m looking to collaborate on website
 <!---
